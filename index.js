@@ -97,7 +97,7 @@ app.post('/', (request, response) => {
 });
 
 const metadata = {
-    title: 'ProPokerTools hand rankings',
+    title: 'ProPokerTools',
     description: 'ProPokerTools hand rankings (http://www.propokertools.com/)',
     games: [{
         type: Games.TexasHoldem,
