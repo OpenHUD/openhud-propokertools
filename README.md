@@ -1,2 +1,2 @@
 # openhud-propokertools
-OpenHUD module: ProPokerTools hand rankings
+OpenHUD module for ProPokerTools hand rankings.
